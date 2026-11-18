@@ -16,4 +16,3 @@ const server = createServer((request, response) => {
 server.listen(PORT, () => {
   console.log(`API listening on http://localhost:${PORT}`);
 });
-
